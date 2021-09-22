@@ -1,7 +1,7 @@
 ---
 title: "LDRS663"
 author: "Colin Madland"
-date: "`r Sys.Date()`"
+date: "2021-09-21"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -15,19 +15,19 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Welcome {-}
+# Welcome
 Welcome to LDRS 663: Effective Coaching for Transformational Learning in Blended Learning Environments!
 
 
-### Course Description {-}
+### Course Description
 Students will examine the theoretical foundations and professional practices of coaching learners in blended learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
-### Program Learning Outcomes {-}
+### Program Learning Outcomes
 - Demonstrate effective facilitation and coaching communication skills (eg. active listening, developing rapport, providing feedback)  
 - Identify a variety of facilitation/coaching methods and techniques.
 
 
-### Course Learning Outcomes {-}
+### Course Learning Outcomes
 On successful completion of this course, students should be able to:
 
 - analyze the characteristics of the coaching role within theoretical models of blended teaching and learning;
@@ -40,7 +40,7 @@ On successful completion of this course, students should be able to:
 - apply information and media literacies to research, produce, analyse and present information online.
 
 
-### Resources {-}
+### Resources
 
 Please note that you are not required to purchase any of the folllowing resources. They are freely available on the web or accessible through the library.
 
@@ -57,6 +57,6 @@ It will be assumed that you have read, understand, and agree to the information 
 
 [button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
 
-## Graduate Level Writing Standards {-}
+## Graduate Level Writing Standards
 
 For students in 663, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
