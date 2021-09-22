@@ -1,6 +1,6 @@
-# Assessments
+# Assessments {-}
 
-## Learning Reflection Blogs (25%)
+## Learning Reflection Blogs (25%) {-}
 
 Throughout this course, you will be invited to write five “working” posts about what you are learning in this course. This will start with you posting to a Moodle Discussion forum, and then transition to your blog (to be introduced in Unit 3). You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a *Showcase Post*, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing five working draft posts.
 
@@ -8,9 +8,9 @@ Each of your draft posts should be 400-500 words.
 
 [details="Post 1"]
 
-#### :fa-calendar: Due at the end of Unit 1
+#### :fa-calendar: Due at the end of Unit 1 {-}
 
-#### :fa-users: Read and Discuss  
+#### :fa-users: Read and Discuss   {-}
 :fa-book: **Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
 :fa-book: **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
 
@@ -31,8 +31,8 @@ To submit this discussion post, click on the "Unit 1 Forum" link below.
 
 [details="Post 2"]
 
-##### :fa-calendar: Due at the end of Unit 2
-##### :fa-wordpress: Topic
+##### :fa-calendar: Due at the end of Unit 2 {-}
+##### :fa-wordpress: Topic {-}
 
 Choose ONE of the Learning Activities in Unit 2 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
 
@@ -46,8 +46,8 @@ To submit this discussion post, click on the "Unit 2 Forum" link below.
 
 [details="Post 3"]
 
-##### :fa-calendar: Due at the end of Unit 3
-##### :fa-wordpress: Topic
+##### :fa-calendar: Due at the end of Unit 3 {-}
+##### :fa-wordpress: Topic {-}
 
 :fa-wordpress:  Copy the text of *Post 1* and *Post 2* from Moodle, and recreate them as posts on your blog. For each post, make sure you include links to 1 or 2 of your colleagues' posts, a 'Featured Image' and the category `ldrs663` or `ldrs463` as appropriate.  
 :fa-rss: Post a link to your blog in the 'Unit 3 Forum' in Moodle.  
@@ -63,8 +63,8 @@ To submit all of your posts for the rest of the course, create a new post on you
 
 [details="Post 4"]
 
-##### :fa-calendar: Due at the end of Unit 4
-##### :fa-wordpress: Topic
+##### :fa-calendar: Due at the end of Unit 4 {-}
+##### :fa-wordpress: Topic {-}
 
 In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
 
@@ -86,8 +86,8 @@ To submit this discussion post, create a new post on your own WordPress blog and
 
 [details="Post 5"]
 
-##### :fa-calendar: Due at the end of Unit 5
-##### :fa-wordpress: Topic
+##### :fa-calendar: Due at the end of Unit 5 {-}
+##### :fa-wordpress: Topic {-}
 
 
 Throughout this unit we have explore the idea of the educational experience. Your task for the Unit 5 Blog Post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences. You can use the following questions to guide your writing:
@@ -109,8 +109,8 @@ Throughout this unit we have explore the idea of the educational experience. You
 
 [details="Showcase Post"]
 
-##### :fa-calendar: Due at the end of the course
-##### :fa-wordpress: Topic
+##### :fa-calendar: Due at the end of the course {-}
+##### :fa-wordpress: Topic {-}
 
 Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
 :fa-lightbulb: finding more published research about the topic to integrate into your post;   
@@ -124,47 +124,47 @@ To submit this discussion post, create a new post on your own WordPress blog and
 
 [/details]
 
-## Facilitated Curriculum Analysis (10%)
+## Facilitated Curriculum Analysis (10%) {-}
 
 Working together as a learning pod, examine a curricular resource that is, or could be, used with a facilitated learning approach. Emphasis will be placed on courses in higher education, including a selection of TWU’s library of FAR courses (specifically designed to be delivered in a facilitated learning approach). However, a range of other formats are open for investigation, including (but not limited to) community-based programs, professional certification programs, corporate workshops or training programs, and masterclasses. Your pod will be invited to select a specific course of study and asked to assess the curriculum from a facilitation and coaching perspective.
 
 To begin, follow the steps below:
 
-### Step 1
+### Step 1 {-}
 Review the course materials you have been assigned or received approve to analyze.
 
-### Step 2
+### Step 2 {-}
 Write a Summary of Understanding. In this second step you will critically reflect on the course materials and write a 3-page summary of understanding from your perspective as a future learning facilitator who is preparing to facilitate this course. In your summary you will compose in your own words your thought on the following:
 
-##### Who is the course for?
+##### Who is the course for? {-}
 Describe the target learners to whom the course will be offered. The instructors and/or your sponsor organization will provide you with this information. But, you should also add some of your own research.
 
-##### How has COVID-19 impacted the learners in the course?
+##### How has COVID-19 impacted the learners in the course? {-}
 Learners and faculty alike have been deeply impacted by coronavirus and COVID-19. How has that impacted learners in the course? Are they quarantined? Do they have access to technology at home? A quiet place to study? Are they looking after their children during the course?
 
-##### What is the course about?
+##### What is the course about? {-}
 Consider the course title, description, course learning outcomes, unit and topic titles, and in your own words try to summarize how you would explain to someone what this course of study is about?
 
-##### What do learners need to know?
+##### What do learners need to know? {-}
 Looking for patterns in the course materials and try to identify what you think are the three to five big ideas that the learners are expected to learn in this course?
 
-##### What do learners need to do?
+##### What do learners need to do? {-}
 Look at the learning activities and assessments to identify the performance-based tasks learners need to do. Specifically, focus on the tasks like forum posts and papers the learners need to produce something.
 
-##### How do the learners complete the course?
+##### How do the learners complete the course? {-}
 Determine if there is a critical path of task throughout the course. That is, are certain tasks contingent on one task being completed for another one can be done? Or is the path open-ended?
 
-##### What challenges do you anticipate?
+##### What challenges do you anticipate? {-}
 Identify the specific challenges that you think learners may face as they work through this particular course of study. Do parts of the course look particularly difficult? Are any resources missing, or underdeveloped, or potentially difficult for certain cultural contexts to understand?
 
-##### What supports do you need to prepare?
+##### What supports do you need to prepare? {-}
 Identify the specific types of support you anticipate will be critical to helping learners successfully complete the learning outcomes of the course you are analyzing.
 
-##### What questions do you have?
+##### What questions do you have? {-}
 If you could ask the course designer clarifying questions about the course, what would you want to know? What is unclear? What don’t you understand? What are you curious to know more about?
 
-## Grading Rubric for Curriculum Facilitation Analysis
-### Emerging (0-69%)
+## Grading Rubric for Curriculum Facilitation Analysis {-}
+### Emerging (0-69%) {-}
 -  No/Minimal demonstration of independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)   
 - No/minimal evidence of having reviewed all readings and a lack of comprehensiveness in responses to questions.
 -  No/Minimal demonstration of ability to communicate ideas in writing and to organize responses clearly, thoroughly, and concisely.  	
@@ -181,20 +181,20 @@ If you could ask the course designer clarifying questions about the course, what
 
 To submit this assignment, scroll to the bottom of the screen on the Unit 5 Tab and select the "Unit 5 - Curriculum Facilitation Analysis Assignment" dropbox.
 
-## Facilitation Resource Project (40%)
+## Facilitation Resource Project (40%) {-}
 
 Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings.  As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.
 
-## Learning Labs (required but not assessed)
+## Learning Labs (required but not assessed) {-}
 
 Throughout the course, you will have the opportunity to attend learning labs. During lab times, the instructors will be modelling learning facilitation and coaching principles and skills. The instructors will be guiding group discussions, answering any questions you may have about the course, helping you understand your assignments, and giving feedback on your participation. The learning labs are not graded; however, lab learning is connected to the graded activities below.
 
 > Note: Learning labs are scheduled for Thursdays from 11:30AM - 1:00 PM Vancouver time. [Check your local time](https://www.timeanddate.com/worldclock/converter.html?iso=20210903T200000&p1=256&p2=125&p3=136). Learning labs will be accessed synchronously via the Zoom video conferencing system.
 
-## Learning Pods
+## Learning Pods {-}
 
 At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
 
-## Peer Coaching Session (15%)
+## Peer Coaching Session (15%) {-}
 
 Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
