@@ -1,7 +1,7 @@
 ---
 title: "LDRS663"
 author: "Colin Madland"
-date: "`r Sys.Date()`"
+date: "2021-09-21"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
