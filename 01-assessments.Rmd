@@ -6,71 +6,63 @@ Throughout this course, you will be invited to write five “working” posts ab
 
 Each of your draft posts should be 400-500 words.
 
-[details="Post 1"]
+### Post 1 {-}
 
-#### :fa-calendar: Due at the end of Unit 1 {-}
+#### Due at the end of Unit 1 {-}
 
-#### :fa-users: Read and Discuss   {-}
-:fa-book: **Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
-:fa-book: **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
+#### Read and Discuss   {-}
+**Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
+**Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
 
 Then, post a reponse in the *Unit 1 Forum* in Moodle - defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
 
-:fa-birthday-cake: If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
+If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
 
-:fa-birthday-cake: If your birthday is between July 1 and December 31, **criticize** Anderson's Interaction Equivalency Theorem
+If your birthday is between July 1 and December 31, **criticize** Anderson's Interaction Equivalency Theorem
 
 Feel free to respond to arguments presented by your colleagues for or against the theorem.
 
 To submit this discussion post, click on the "Unit 1 Forum" link below.
 
 
-[/details]
 
 
 
-[details="Post 2"]
+### Post 2{-}
 
-##### :fa-calendar: Due at the end of Unit 2 {-}
-##### :fa-wordpress: Topic {-}
+#### Due at the end of Unit 2 {-}
+##### Topic {-}
 
 Choose ONE of the Learning Activities in Unit 2 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
 
-To submit this discussion post, click on the "Unit 2 Forum" link below.
-
-
-[/details]
+To submit this discussion post, click on the "Unit 2 Forum" link in Moodle.
 
 
 
 
-[details="Post 3"]
 
-##### :fa-calendar: Due at the end of Unit 3 {-}
-##### :fa-wordpress: Topic {-}
+### Post 3{-}
 
-:fa-wordpress:  Copy the text of *Post 1* and *Post 2* from Moodle, and recreate them as posts on your blog. For each post, make sure you include links to 1 or 2 of your colleagues' posts, a 'Featured Image' and the category `ldrs663` or `ldrs463` as appropriate.  
-:fa-rss: Post a link to your blog in the 'Unit 3 Forum' in Moodle.  
-:fa-wordpress:   In a new post, expand on your reflection on the idea of Visitors and Residents in online spaces. What do you notice? What do you wonder?  
+#### Due at the end of Unit 3 {-}
+#### Topic {-}
+
+- Copy the text of *Post 1* and *Post 2* from Moodle, and recreate them as posts on your blog. For each post, make sure you include links to 1 or 2 of your colleagues' posts, a 'Featured Image' and the category `ldrs663` or `ldrs463` as appropriate.  
+- Post a link to your blog in the 'Unit 3 Forum' in Moodle.  
+- In a new post, expand on your reflection on the idea of Visitors and Residents in online spaces. What do you notice? What do you wonder?  
 
 To submit all of your posts for the rest of the course, create a new post on your own WordPress blog and use the category `ldrs663` or `ldrs463`.
 
 
-[/details]
+### Post 4{-}
 
-
-
-
-[details="Post 4"]
-
-##### :fa-calendar: Due at the end of Unit 4 {-}
-##### :fa-wordpress: Topic {-}
+#### Due at the end of Unit 4 {-}
+#### Topic {-}
 
 In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
 
-:fa-question: How would you define the coaching competency?   
-:fa-question: Why is the competency important?    
-:fa-question: What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
+- How would you define the coaching competency?   
+- Why is the competency important?    
+- What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
 
 !! ***To submit this discussion post, click on the "Unit 4 - Discussion Post" dropbox. It can be found by scrolling to the bottom of the page.***
 
@@ -80,49 +72,49 @@ In your Discussion Post for this unit, you are being asked to select one core co
 To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
 
-[/details]
 
 
 
-[details="Post 5"]
 
-##### :fa-calendar: Due at the end of Unit 5 {-}
-##### :fa-wordpress: Topic {-}
+### Post 5 {-}
+
+#### Due at the end of Unit 5 {-}
+##### Topic {-}
 
 
 Throughout this unit we have explore the idea of the educational experience. Your task for the Unit 5 Blog Post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences. You can use the following questions to guide your writing:
 
-:fa-question: How can educational institutions give learners more control over their learning experiences?  
-:fa-question: What benefits and challenges does learner-centred access to education introduce?  
-:fa-question: Is the recent move towards multi-access education shifting the site of education back to an emphasis on study and away from the focus on instruction that dominated the modern era?  
-:fa-question: How might this shift change the educator’s role and responsibilities?  
-:fa-question: How might this shift change the learner’s role and responsibilities change?  
-:fa-question: How can institutions ensure quality and transformational learning outcomes?  
+- How can educational institutions give learners more control over their learning experiences?  
+- What benefits and challenges does learner-centred access to education introduce?  
+- Is the recent move towards multi-access education shifting the site of education back to an emphasis on study and away from the focus on instruction that dominated the modern era?  
+- How might this shift change the educator’s role and responsibilities?  
+- How might this shift change the learner’s role and responsibilities change?  
+- How can institutions ensure quality and transformational learning outcomes?  
 
 
 
 
-[/details]
 
 
 
 
-[details="Showcase Post"]
 
-##### :fa-calendar: Due at the end of the course {-}
-##### :fa-wordpress: Topic {-}
+### Showcase Post {-}
+
+#### Due at the end of the course {-}
+##### Topic {-}
 
 Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
-:fa-lightbulb: finding more published research about the topic to integrate into your post;   
-:fa-lightbulb: writing about how your views have changed on the topic during the course;
-:fa-lightbulb: writing a counter-argument refuting your previous post.
+- finding more published research about the topic to integrate into your post;   
+- writing about how your views have changed on the topic during the course;
+- writing a counter-argument refuting your previous post.
 
 Please include citations (links) and a reference list at the end of your post.
 
 To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
 
 
-[/details]
+
 
 ## Facilitated Curriculum Analysis (10%) {-}
 
