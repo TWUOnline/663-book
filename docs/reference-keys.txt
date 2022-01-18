@@ -49,7 +49,7 @@ activity-6.3-personal-study-and-reflection
 activity-6.4-assembling-as-a-team
 unit-8-assessment
 assignment-1
-checking-your-learning-1
+checking-your-learning-2
 activity-9.1.-gathering-class-meeting-with-professor.
 activity-9.2-community-building-everest-simulation-ii
 activity-9.3-personal-study-and-reflection
@@ -65,4 +65,4 @@ activity-1.2-gathering-class-presentations.
 unit-10-assessment
 assignment-class-presentation-10-1
 assignment-team-project-30-1
-checking-your-learning-3
+checking-your-learning-4
