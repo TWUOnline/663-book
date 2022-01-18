@@ -1,6 +1,6 @@
-# Unit 3 {-}
+# Unit 3{-}
 
-##  Technology Introductions{-}
+## Technology Introductions{-}
 
 ### Unit 3 (Week 3){-}
 #### Thursday, Sept. 16 - Wednesday, Sept. 22{-}
@@ -13,31 +13,32 @@
 - **Read** [**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)  
 - **Watch** [Liberating Structures](https://player.vimeo.com/video/364868276)  
 - **Visit** [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)  
-:fa-check: Please complete these items by [badge label="Wednesday, September 22" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20210916T1130&p1=1109&ah=1&am=30"" /]  
+📖 Please complete these items by [badge label="Wednesday, September 22" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20210916T1130&p1=1109&ah=1&am=30"" /]  
 
 ---
-## Unit 3: Teaching and Learning with Technology
+
+## Unit 3: Teaching and Learning with Technology{-}
 
 There are some critical digital literacies that you will need to begin or continue to develop during this course. These skills and competencies that you will be developing are not intended to to be merely for the sake of learning so-called '21st-century skills' that are much ballyhooed in education circles. Rather, the unique structure of TWU microcampuses and the FAR Centre learning model require robust technological infrastructure to support our processes from initiating a course design project through the design, development, and production of learning materials and environments, to the ongoing maintenance and evergreening of courses deployed in widely diverse locations across the world. You will be required to interact with this infrastructure in order to access course materials; communicate with the faculty member responsible for the courses you are facilitating, as well as with administrative departments at TWU; participate in the process of localizing learning activities; and supporting the work of your fellow Academic Facilitation Specialists in other locations.
 
-### Key Questions
+### Key Questions{-}
 - How can you maintain a connection to the greater TWU community?
 - What role do you play in maintaining and revising learning materials and support resources?
 
-### Topics
+### Topics{-}
 Unit 3 is divided into 3 topics:
 1.
 2.
 3.
 
-### Learning Outcomes
+### Learning Outcomes{-}
 When you have completed this unit you should be able to:
 - communicate clearly and professionally in a digitally mediated, asynchronous environment using a variety of tools;
 - install and configure software on your computer;
 - contribute to cooperatively generated learning and support materials in a git-enabled environment; and,
 - compose text-based materials with embedded media using GitHub-Flavored markdown.
 
-### Resources
+### Resources{-}
 - [Github](https://github.com)
 - [Atom.io](https://atom.io)
 - `[GitHub for Poets] Need link`
@@ -49,7 +50,7 @@ For the next two weeks, we will be exploring some technology tools that can help
 
 We will be helping you set up an individual website in either Grav or WordPress that you can use as you continue with your studies.
 
-## Visitors and Residents
+## Visitors and Residents{-}
 
 ### Key Questions{-}
 
@@ -120,7 +121,7 @@ I hope this activity will help you think about how the tools we use shape and so
 :fa-share: Alternately, you can share a link in the Unit 4 Discussion forum.  
 [/details]
 
-## Privacy
+## Privacy{-}
 
 ##### FIPPA, Privacy, and Consent Resources
 
@@ -148,16 +149,16 @@ Learners should ensure that they:
 - Understand that these acts do not prohibit participation in networked tools outside of Canada and many public bodies are in need of staff and leaders who model networked literacy and positive citizenship online for their community
 - Understand what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.
 
-## FAR Facilitators
+## FAR Facilitators{-}
 If you are planning on being a FAR Facilitator, please work through these activities. Of course, if you are not planning on being a FAR Facilitator and want to work through these activities, you are more than welcome to do so.
 
 If you are not on the FAR Facilitation track, feel free to skip down to 'General', below.
 
-## GitHub
+## GitHub{-}
 
 !!!! The following instructions are specifically for those in LDRS663 who are planning to become FAR Centre Facilitators. If this is not you, you are welcome to dive in and learn this workflow, but it may be less applicable than WordPress.
 
-### Getting Set Up
+### Getting Set Up{-}
 
 We're going to take a little break from the so-called 'academic content' of this course and dive into some technical skills and digital literacies that you will need to succeed in a TWU microcampus. Keep in mind that the skills needed to use this workflow can be learned. It might take some more work for some of you than others, but you will all get there. Be patient. Ask for help from your colleagues and instructors. Be persistent. You've got this.
 
@@ -165,7 +166,7 @@ We're going to take a little break from the so-called 'academic content' of this
 <a class="embedly-card" data-card-key="05acda8fea1b4f099c92b66268f422dd" data-card-controls="0" data-card-branding="0" href="https://media.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif">Andy Samberg Smile GIF by Brooklyn Nine-Nine - Find & Share on GIPHY</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-### GitHub
+### GitHub{-}
 
 
 Throughout this course, we will be using a web application called GitHub to manage a large portion of your coursework. We also rely heavily on GitHub and the workflow that you will learn during this course to manage course materials that are ultimately displayed in Moodle or WordPress for students. GitHub is a web tool that allows distributed teams to cooperatively contribute to documents and to track projects. You might be familiar with Google Docs, which is a collaborative tool for creating and editing documents. GitHub shares some similarities with Google Docs, but there are also some important differences.
@@ -174,7 +175,7 @@ These differences will become apparent as you become familiar with GitHub, but f
 
 If this all sounds overwhelming, don't worry, we will walk you through each of the skills that you will need to navigate in GitHub.
 
-### Why GitHub?
+### Why GitHub?{-}
 
 Good question! GitHub will admittedly require you to learn some new ways of thinking about and interacting with software. The lingo in GitHub and the interface might seem obtuse and unnecessarily 'jargony', but as you become more familiar with the capabilities and affordances of the tool, it will become second nature.
 
@@ -198,7 +199,7 @@ We are not using GitHub in order to make your life difficult! We are using GitHu
 
 This wide variety of stakeholders means that we need to be very intentional about how we manage our workflows.
 
-### Using GitHub
+### Using GitHub{-}
 
 
 GitHub and similar tools allow distributed teams to collaborate and track changes and versions of large, text-based repositories. Git, the software that is at the foundation of GitHub was created to manage the process of creating the Linux operating system, and it is now the industry standard for large software development projects.
@@ -220,12 +221,12 @@ First, there is some lingo that you need to become familiar with.
 
 It is ok if these don't make much sense right now, but they are a necessary part of a git-based workflow and they help to maintain structure and order in a project.
 
-### Software
+### Software{-}
 !!! It's important that you follow these instructions carefully and completely. Skipping some steps might cause unexpected results.
 
-### GitHub
+### GitHub{-}
 
-#### Register for a free GitHub account.
+#### Register for a free GitHub account.{-}
 !! You will be sent an invitation to the 'Trinity Western Online' organization in GitHub.
 
 -  Click the link in the email invitation that you received to go to [GitHub.com](https://github.com) and fill in the 'Sign-up' details.
@@ -233,7 +234,7 @@ It is ok if these don't make much sense right now, but they are a necessary part
   - Make sure you choose a free plan.
 - To complete the sign-up process, you will need to [verify your email address](https://help.github.com/articles/verifying-your-email-address/).
 
-### Install Git
+### Install Git{-}
 
 Git is software that you need to be running on your computer in order to do some of the other things that you will learn how to do in this unit. You will only need to install git on each computer once, and then you never have to worry about it again. You will never 'see' git as an app on your computer. It runs in the background.
 
@@ -243,7 +244,7 @@ Git is software that you need to be running on your computer in order to do some
 ![](git-1.png)
 - follow the instructions peculiar to your computer system. You can use the default settings suggested by the installer.
 
-### Install GitHub Desktop
+### Install GitHub Desktop{-}
 
 GitHub Desktop is software that  is used for cloning a GitHub repository (repo) to your local computer so that you can edit it using a text editor like Typora or Atom. It is also how you `push` your changes from your local computer to the `remote` repository in GitHub.
 
@@ -341,7 +342,7 @@ Ok, here is what you should have completed so far:
 
 Now that you have installed the software that you will need and you have cloned the `far-community` repo to your computer you need to open it in Typora.
 
-### Click 'File' and choose 'Open'.
+### Click 'File' and choose 'Open'.{-}
 
 ![alt-text](typora-1.png "Open a repo in typora")
 
@@ -349,13 +350,13 @@ Alternately, you can click 'Open Folder...' in the bottom left corner of the win
 
 ![alt-text](typora-2.png "Open a repo in typora")
 
-### Select the appropriate repo and click 'Open'.
+### Select the appropriate repo and click 'Open'.{-}
 
 ![alt-text](typora-3.png "Open a repo in typora")
 
 Tap the title to open the folder, then tap `pages` to see a list of all of your colleagues' sites, as below. As of the first writing, you will only see Colin's site as `03.colin-madland` and the master site as `99.MASTER`. Subsequent cohorts will see all previous cohort sites. You may choose to use a pseudonym here.
 
-### Duplicate '99.MASTER'
+### Duplicate '99.MASTER'{-}
 
 Using Typora, you need to complete a few tasks in your Finder (macOS) or Windows Explorer (Windows). Use whichever file navigation system is appropriate for your context to navigate to  the 'far-community' repo, open it, click 'pages' then right click on '99.master' and choose 'Duplicate' from the contextual menu.
 
@@ -365,13 +366,15 @@ You will end up with a copy of the folder...
 
 ![alt-text](typora-5.png "copy of the folder")
 
-##### Edit the folder title.
+##### Edit the folder title.{-}
 
 You can complete this step in your Finder/Explorer window or in Typora.
 
 Change the number `99` to the number that corresponds with where your last name is in alphabetical order in the list of sites.  You can duplicate a previous number, so if your name falls between `04.colin-madland` and `05.chisako-takano`, you can use `04.your-name` or `05.your-name`. You will learn how to re-number sites in a later step. Then, after the `.` add your `firstname-lastname` all in lower-case, hyphenated, and with no spaces and hit 'Return/Enter'.
 
-##### Edit `subsite.md`
+##### Edit{-}
+
+`subsite.md`
 
 Complete these steps in Typora.
 
@@ -392,7 +395,7 @@ The content you see above the dotted line is called the `Frontmatter` and it tel
 5.  Feel free to play around with the `true/false` settings.
 6. Although you are welcome to keep `subsite_list_description: 'Master of the Interwebs'`, you can also change that to something more suited to your taste.
 
-##### Update the content-inject
+##### Update the content-inject{-}
 
 Click on the `plugin:content-inject` and you will see it expand into the following:
 
@@ -406,7 +409,7 @@ The content-inject plugin is 'injecting' the content from the file `/firstname.l
 
 You can edit the `alert.md` file to change the injected content.
 
-### Site Setup - Atom
+### Site Setup - Atom{-}
 
 !!!! The following instructions are specificlly for those in LDRS663 who are planning to become FAR Centre Facilitators. If this is not you, you are welcome to dive in and learn this workflow, but it may be less applicable than WordPress.
 
@@ -474,7 +477,7 @@ When you are done this step, you should see this on the `course.md` file.
 
 ![](site-setup-7.png)
 
-### Publish your site.
+### Publish your site.{-}
 
 Now that you have started the basics of personalizing your site, it's time to publish it to the Community.
 
@@ -486,34 +489,36 @@ Tap `Stage All` in the top, right and the files will move to the `Staged Changes
 
 ![](site-setup-8.png)
 
-### Edit your `Alert`
+### Edit your{-}
+
+`Alert`
 
 `create checklist of git/atom skills for whole course`
 
-## General
+## General{-}
 
 If you are not in the FAR Facilitation track, please follow these instructions to set up a WordPress site.
 
-### WordPress Privacy
+### WordPress Privacy{-}
 Now that you have thought about privacy in our digital world, it is time for you to make some decisions about how you would like to 'be' online.
 
 
 You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
 
 Please review all 5 steps below to decide on your approach.
-##### Decide if you are comfortable posting your work online.
+##### Decide if you are comfortable posting your work online.{-}
 
 If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
 
 If you are comfortable being online, then proceed to step 2.
 
-##### Would you like to use your real name or use a pseudonym?
+##### Would you like to use your real name or use a pseudonym?{-}
 
 You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
 
 With that decision made, proceed to step 3.
 
-##### Decide if you would like your blog to be hosted outside of Canada or inside of Canada.
+##### Decide if you would like your blog to be hosted outside of Canada or inside of Canada.{-}
 
 We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., http://yourname.ca or http://westcoastteacher.ca) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
 
@@ -521,7 +526,7 @@ Be sure you review the resources under the privacy tutorial on this site or talk
 
 With that decision made, proceed to step 4.
 
-##### You also have to decide if you want to make your blog public or private.
+##### You also have to decide if you want to make your blog public or private.{-}
 
 You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
 
@@ -530,17 +535,17 @@ You can set an entire blog to be private or simply selected posts can be set to 
 
 And last, but not least…
 
-##### Finally, you have to think about where you and your content will end up.
+##### Finally, you have to think about where you and your content will end up.{-}
 
 The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn’t and we’ll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
 
-##### Creating a Blog
+##### Creating a Blog{-}
 
 Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit :fa-link:[create.twu.ca](https://create.twu.ca), click the green 'Sign up here!' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
 
-### WordPress Set-up
+### WordPress Set-up{-}
 
-### WordPress Resources
+### WordPress Resources{-}
 
 ![alt-text](stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg "WordPress dashboard")
 
@@ -554,7 +559,7 @@ The first Steps:
 :fa-check: Edit your about me page by introducing yourself and sharing a little about yourself.  
 :fa-check: You are welcome to change the images and upload your own. [Here is information about using images from Google.](https://www.youtube.com/watch?v=GtMOAaMFaPs)
 
-### WordPress Tutorials
+### WordPress Tutorials{-}
 
 When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
 
@@ -571,11 +576,11 @@ If you are confused about anything it is always good to do an initial Google or 
 
 <span>Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Stephen Phillips - Hostreviews.co.uk</a> on <a href="https://unsplash.com/s/photos/wordpress?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-## Assessment
+## Assessment{-}
 
 By the end of this unit, you should be able to...
 
-##### General
+##### General{-}
 
 :fa-check: Create and configure a WordPress site.  
 :fa-check: Create and publish a post and page on your WordPress site.  
@@ -583,9 +588,9 @@ By the end of this unit, you should be able to...
 :fa-check:
 :fa-check:
 
-##### FAR Facilitators
-:fa-check: Install Git, GitHub Desktop, and a Markdown editor on your computer.   
-:fa-check: Clone a GitHub repository.  
-:fa-check: Create and configure your own subsite at far.twu.ca/community.    
-:fa-check: Create a new post on your site with media and hyperlinks.  
-:fa-check: Begin composing and styling your posts in your text editor using Markdown.  
+##### FAR Facilitators{-}
+📖 Install Git, GitHub Desktop, and a Markdown editor on your computer.   
+📖 Clone a GitHub repository.  
+📖 Create and configure your own subsite at far.twu.ca/community.    
+📖 Create a new post on your site with media and hyperlinks.  
+📖 Begin composing and styling your posts in your text editor using Markdown.  
