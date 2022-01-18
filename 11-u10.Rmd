@@ -17,7 +17,7 @@
 
 ---
 
-# Unit 9:
+# Unit 9:{-}
 
 
 ## Overview{-}
@@ -52,9 +52,9 @@ this unit. You may find it useful for planning your work.
 
 Here are the resources you will need to complete this unit.
 
-### Learning Activities
+## Learning Activities{-}
 
-#### Activity 9.1. GATHERING: Class meeting with Professor.
+### Activity 9.1. GATHERING: Class meeting with Professor.
 
 In this week’s conference meeting, your professor will provide a 60 minute talk
 summarizing ‘The Advantage’ and talking about the role of the team in
@@ -72,7 +72,7 @@ and questions.
 
 ---
 
-#### Activity 9.2: COMMUNITY BUILDING: Everest Simulation II
+### Activity 9.2: COMMUNITY BUILDING: Everest Simulation II
 
 In this activity, you will take the Everest Challenge Simulation for the second
 time. Check with your instructor on how we will alter the roles and nature of
@@ -85,21 +85,21 @@ weekly Moodle forum.
 
 ---
 
-#### Activity 9.3: PERSONAL STUDY AND REFLECTION
+### Activity 9.3: PERSONAL STUDY AND REFLECTION
 
 Read Chapter 14 in your Levi textbook as well as Patrick Lencioni’s book, *The
 Advantage* (240 pages). Take notes to help you complete the assessments in this course.
 
 ---
 
-#### Activity 9.4: ASSEMBLING AS A TEAM
+### Activity 9.4: ASSEMBLING AS A TEAM
 
 In week 9, you should be working together as a team to fine-tune your project
 and prepare for the class presentation in week 10.
 
 ---
 
-## Unit 9 Summary
+## Unit 9 Summary{-}
 
 In Unit 9, you had the opportunity to learn about culture in teams and teamwork.
 You saw how different cultures can affect teams and why different cultures may
