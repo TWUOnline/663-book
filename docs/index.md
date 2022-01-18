@@ -1,18 +1,10 @@
 ---
-title: "LDRS663"
-author: "Colin Madland"
-date: "2021-09-24"
+title: "Welcome to LDRS 663:Transformational Blended Learning  "
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::bs4_book,
-  set in the _output.yml file.
+url: https://twuonline.github.io/663-book
 biblio-style: apalike
-csl: chicago-fullnote-bibliography.csl
 ---
 
 # Course Description {-}
