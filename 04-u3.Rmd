@@ -44,7 +44,7 @@ When you have completed this unit you should be able to:
 - `[GitHub for Poets] Need link`
 - [Git Book](https://git-scm.com/book/en/v2)
 
-### Overview
+### Overview{-}
 
 For the next two weeks, we will be exploring some technology tools that can help make the management of remote learning environments easier. As you know, there are two general cohorts of learners in this course, FAR Facilitators and generalists. Those of you on track to work as FAR Centre Facilitators will be asked to engage with the GitHub/Grav workflow, but if you are here from an outside organization, you may choose between the GitHub/Grav workflow and learning WordPress. Admittedly, WordPress has a much shallower learning curve, and it also will have much broader immediate applicability to other contexts.
 
@@ -86,11 +86,11 @@ At the same time, if we can imagine the visitor <--> resident continuum on a hor
 
 The video below explains a process to help you think about where you reside on the web (7 mins).
 
-[plugin:youtube](https://www.youtube.com/watch?v=sPOG3iThmRI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPOG3iThmRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
 
-![alt-text](vr-diagram.png "Visitor-Resident Diagram")
+![](vr-diagram.png)
 
 It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
 
@@ -115,15 +115,15 @@ If you would like, take some time to engage in the following optional activity.
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
 
 [details="Click to open"]
-:fa-book: Read [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
-:fa-image: Create your own Visitor-Resident Diagram of your web presence using the tool of your choice.  
-:fa-share: Share your Visitor-Resident Diagram in a tool that falls into the 'Professional-Resident' quadrant for you and send me the link so I can add it to a feed. Include a short reflection on what your diagram tells you about your web presence. Feel free to interact with others' diagrams!  
+📖 Read [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
+📖 Create your own Visitor-Resident Diagram of your web presence using the tool of your choice.  
+📺 Share your Visitor-Resident Diagram in a tool that falls into the 'Professional-Resident' quadrant for you and send me the link so I can add it to a feed. Include a short reflection on what your diagram tells you about your web presence. Feel free to interact with others' diagrams!  
 :fa-share: Alternately, you can share a link in the Unit 4 Discussion forum.  
 [/details]
 
 ## Privacy{-}
 
-##### FIPPA, Privacy, and Consent Resources
+##### FIPPA, Privacy, and Consent Resources{-}
 
 It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the [B.C. Office of Information and Privacy Commissioner](https://www.oipc.bc.ca/). Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the [BC Cloud Computing Guidelines (PDF)](https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf) and you can review the [Freedom of Information and Protection of Privacy Act here.](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00). [TWU also has a privacy policy, available here.](https://www.twu.ca/about/university-privacy-policy)
 
@@ -137,7 +137,7 @@ Additional resources can be found here:
 
 [MediaSmarts: Canada’s Centre for Digital and Media Literacy](http://mediasmarts.ca/)
 
-##### FIPPA, Privacy, and Consent Competencies
+##### FIPPA, Privacy, and Consent Competencies{-}
 
 Learners should ensure that they:
 - Are aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follow them
@@ -238,7 +238,7 @@ It is ok if these don't make much sense right now, but they are a necessary part
 
 Git is software that you need to be running on your computer in order to do some of the other things that you will learn how to do in this unit. You will only need to install git on each computer once, and then you never have to worry about it again. You will never 'see' git as an app on your computer. It runs in the background.
 
-##### Go to [git-scm.com](https://git-scm.com/downloads)
+##### Go to [git-scm.com](https://git-scm.com/downloads){-}
 
 - click the 'Download x.x.x for Windows/macOS/Linux'
 ![](git-1.png)
@@ -250,81 +250,81 @@ GitHub Desktop is software that  is used for cloning a GitHub repository (repo) 
 
 ! Jargon Alert! A GitHub repository is just a set of text files, usually organized into folders, just like you would keep all the Word files you use for a course inside a folder for that course.
 
-##### Go to [desktop.github.com](https://desktop.github.com) and click 'Download for Windows/macOS/Linux'
+##### Go to [desktop.github.com](https://desktop.github.com) and click 'Download for Windows/macOS/Linux'{-}
 ![](dl-github.png)
 
-#### Double click 'GithubDesktopSetup'
+#### Double click 'GithubDesktopSetup'{-}
 
 ![](setup-a.png)
 
-#### Click 'Sign in to GitHub.com'
+#### Click 'Sign in to GitHub.com'{-}
 
 ![](github-a.png)
 
-#### Sign in
+#### Sign in{-}
 
 ![](github-b.png)
 
-#### Click 'Continue'
+#### Click 'Continue'{-}
 
 ![](github-c.png)
 
-#### Click 'Clone a repository from the internet.'
+#### Click 'Clone a repository from the internet.'{-}
 
 ![](github-d.png)
 
-#### Search for 'community' and choose the `TWUOnline/far-community` repo.
+#### Search for 'community' and choose the `TWUOnline/far-community` repo.{-}
 
 This is a private repo, so if you don't see it, send an email to [elearning@twu.ca](mailto:elearning@twu.ca) and ask to be added as a contributor to the repo.
 
-#### Click 'Clone'
+#### Click 'Clone'{-}
 
 ![](github-e.png)
 
-#### Let it do its thing...may take a while.
+#### Let it do its thing...may take a while.{-}
 During this process, GitHub Desktop is cloning all of the files from the `TWUOnline/far-community` repo and making an exact copy on your desktop.
 
 ![](github-f.png)
 
-#### Click 'Fetch origin'
+#### Click 'Fetch origin'{-}
 
 ![](github-g.png)
 
-#### If you want to add another repo, go to 'File > Clone repository'
+#### If you want to add another repo, go to 'File > Clone repository'{-}
 
 ![](github-h.png)
 
-### Typora
+### Typora{-}
 
 Typora is a plain text editor that allows users to edit the files in a GitHub repository. You can go to [typora.io](https://typora.io) to download and install the beta version for free. Typora does not connect directly to GitHub, so once you have made your changes, you need to use GitHub Desktop to commit and push your changes.
 
-## Atom
+## Atom{-}
 
 Atom is also a plain text editor, similar to Typora, `TextEdit`, or `NotePad`, but it is connected to your cloned GitHub repo, so all of the changes that you save locally on your computer can be merged with the GitHub repo from directly within Atom.
 
-#### Go to [atom.io](https://atom.io)
+#### Go to [atom.io](https://atom.io){-}
 
 Download and install the appropriate package for your system.
 
-#### Once it is installed, click 'Open a Project'
+#### Once it is installed, click 'Open a Project'{-}
 
 ![](atom-a.png)
 
-#### Go to 'Documents > GitHub > far-community'
+#### Go to 'Documents > GitHub > far-community'{-}
 
 ![](atom-b.png)
 
-#### The files will appear in the left side 'Project' column
+#### The files will appear in the left side 'Project' column{-}
 
 ![](atom-c.png)
 
-#### To create a new page in Grav, right-click a previous page and click 'Duplicate'.
+#### To create a new page in Grav, right-click a previous page and click 'Duplicate'.{-}
 
 ![](atom-d.png)
 
 !! You will need to rename the folder as well as the 'docs.md' file within the folder.
 
-### Task Checklist
+### Task Checklist{-}
 
 Ok, here is what you should have completed so far:
 
@@ -335,7 +335,7 @@ Ok, here is what you should have completed so far:
 :fa-check: Download and install Typora (recommended) or Atom.  
 :fa-check: Open the `far-community` repo in Atom.  
 
-### Site Setup - Typora
+### Site Setup - Typora{-}
 
 !!!! The following instructions are specificlly for those in LDRS663 who are planning to become FAR Centre Facilitators. If this is not you, you are welcome to dive in and learn this workflow, but it may be less applicable than WordPress.
 
@@ -380,11 +380,11 @@ Complete these steps in Typora.
 
 Inside your new folder, you will find another list of folders and files, as below:
 
-![alt-text](typora-6.png "Files and folders inside a subsite")
+![](typora-6.png)
 
 Click on the `subsite.md` file to view its contents, which should look like this:
 
-![alt-text](typora-7.png "contents of course.md")
+![](typora-7.png)
 
 The content you see above the dotted line is called the `Frontmatter` and it tells Grav how to display the file. This particular file is critical to your site because it controls a bunch of settings for your entire site. Here are the changes you need to make:
 
@@ -399,13 +399,13 @@ The content you see above the dotted line is called the `Frontmatter` and it tel
 
 Click on the `plugin:content-inject` and you will see it expand into the following:
 
-![alt-text](typora-8.png "content inject")
+![](typora-8.png)
 
 Change the path from `(/master/blog/_important-reminders)` to `/firstname.lastname/blog/_important-reminders)`.
 
 The content-inject plugin is 'injecting' the content from the file `/firstname.lastname/blog/_important-reminders`
 
-![alt-text](typora-9.png "content inject path")
+![](typora-9.png)
 
 You can edit the `alert.md` file to change the injected content.
 
@@ -421,15 +421,15 @@ You can edit the `alert.md` file to change the injected content.
 
 ...or whatever the path is to your repository.
 
-![](/Users/colin.madland/Documents/GitHub/ldrs-master/pages/05.663/03.3-Technology-week/03.software-installation/atom-b.png)
+![](atom-b.png)
 
 #### The files will appear in the left side 'Project' column
 
-![](/Users/colin.madland/Documents/GitHub/ldrs-master/pages/05.663/03.3-Technology-week/03.software-installation/atom-c.png)
+![](atom-c.png)
 
 #### To create a new page in Grav, right-click a previous page and click 'Duplicate'.
 
-![](/Users/colin.madland/Documents/GitHub/ldrs-master/pages/05.663/03.3-Technology-week/03.software-installation/atom-d.png)
+![](atom-d.png)
 
 !! You will need to rename the folder as well as the 'docs.md' file within the folder.
 
