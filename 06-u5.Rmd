@@ -16,13 +16,13 @@
 :fa-check: Please complete these items by [badge label="Wednesday, September 22" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20210916T1130&p1=1109&ah=1&am=30"" /]  
 
 ---
-## Unit 5: Learning Facilitation
+## Unit 5: Learning Facilitation{-}
 
-### Overview
+### Overview{-}
 
 Facilitation in education refers to the process of helping learners to explore, learn and change. A facilitator is expert on process and group interactions. In education, facilitation is rooted in understanding the nature of the social learning process and how to guide its direction and quality. As a social species, we learn a great deal from each other in both formal and informal contexts. Our earliest learning experiences are profoundly social and intimate interactions between mother and child, and the social aspect of learning never ceases to be important. During this unit, we will examine a short history of social theories of learning from John Dewey and Lev Vygotsky, then, we will experiment with the theory and practices of facilitating learning in group settings.
 
-### Topics
+### Topics{-}
 
 This unit is divided into the following topics:
 
@@ -33,7 +33,7 @@ This unit is divided into the following topics:
  5. Core Facilitation Competencies
  6. Strategies for Learning Facilitation
 
-### Learning Outcomes
+### Learning Outcomes{-}
 
 When you have completed this unit, you should be able to:
 
@@ -44,7 +44,7 @@ When you have completed this unit, you should be able to:
  - Apply knowledge of the Community of Inquiry model liberating structures to the facilitation of cooperative learning activities
  - Identify and explain core competencies for facilitating learning.
 
-### Resources
+### Resources{-}
 
 Here are the resources you will need to complete this unit.
 
@@ -153,7 +153,7 @@ After reading through the content above, consider the following questions:
 
  The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning **environment,** the **focus** (or purpose) of the session, **feelings** the session is likely to evoke, **experiences** learners will explore, **changes** learners will make as a result of the session, and the **timings** allocated for all the learning experiences and activities. Next, it’s important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans’ (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about “the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.”
 
-### :fa-book: Learning Activity 5.1 - Read and Reflect
+### Learning Activity 5.1 - Read and Reflect
 
  Read the following article:
 
@@ -212,7 +212,7 @@ After reading through the content above, consider the following questions:
 
   ---
 
-### :fa-book: Learning Activity 5.2: Read and Reflect
+### Learning Activity 5.2: Read and Reflect
 
   Take a moment to read the following article:
 
@@ -228,7 +228,7 @@ After reading the article above, consider the following questions:
 
   ---
 
-###:fa-book: Learning Activity 5.3: Read and Reflect
+### Learning Activity 5.3: Read and Reflect
 
   Take some time to read:
    - [**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)
@@ -264,7 +264,7 @@ The professionalization of learning facilitation within educational settings is 
 
 ---
 
-### :fa-book: Learning Activity 5.4: Read and Reflect
+### Learning Activity 5.4: Read and Reflect
 
 Take some time to read the following article:
 
@@ -286,7 +286,7 @@ After completing the reading above, consider the following questions:
 
  It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called *Liberating Structures* which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired 'brainstorm.'
 
-### :fa-film: Learning Activity 5.5: Watch and Reflect
+### Learning Activity 5.5: Watch and Reflect
 
  Watch the video below for a quick introduction to *Liberating Structures:*
 
