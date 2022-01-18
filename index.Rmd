@@ -1,5 +1,5 @@
 ---
-title: "Welcome to LDRS 663:Transformational Blended Learning  "
+title: "Welcome to LDRS 663:Transformational Blended Learning  "
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
