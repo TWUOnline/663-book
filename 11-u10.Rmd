@@ -17,7 +17,7 @@
 
 ---
 
-# Unit 9:{-}
+## Unit 9:{-}
 
 
 ## Overview{-}
@@ -25,14 +25,12 @@
 
 
 
-##Learning Outcomes{-}
+## Learning Outcomes{-}
 -----------------
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you should be able to:   
 
--   
-
-##Activity Checklist{-}
+## Activity Checklist{-}
 ------------------
 
 Here is a checklist of learning activities you will benefit from in completing
@@ -297,7 +295,7 @@ In addition to the sections listed above, please pay attention to the following:
     lectures and class discussions are properly referenced in APA style.
 
 ## Checking your Learning{-}
-----------------------
+
 
 Before you move on to the next unit, you may want to check to make sure that you
 are able to:

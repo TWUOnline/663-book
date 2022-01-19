@@ -19,17 +19,17 @@
 
 ![](U10_top-3684872_1920.jpg)
 
-# Unit 10: Finishing Well as a Team
+## Unit 10: Finishing Well as a Team{-}
 
 
-## Overview{-}
---------
+### Overview{-}
+
 
 In this final unit, you will meet as a class to present your Team Project and
 learn from your peers.
 
-Learning Outcomes
------------------
+### Learning Outcomes{-}
+
 
 When you have completed this unit, you should be able to:
 
@@ -56,7 +56,7 @@ When you have completed this unit, you should be able to:
 -   Create new team structures and training tools to implement future teams.
 
 ## Activity Checklist{-}
-------------------
+
 
 Here is a checklist of learning activities you will benefit from in completing
 this unit. You may find it useful for planning your work.
@@ -69,9 +69,9 @@ this unit. You may find it useful for planning your work.
 
 >>>>> Photo Credit: [Pixabay](https://pixabay.com/en/top-kazbek-ossetia-camping-tourism-3684872/)
 
-### Learning Activities
+### Learning Activities{-}
 
-#### Activity 1.2: GATHERING: Class Presentations.
+### Activity 11.2: GATHERING: Class Presentations.
 
 For the final class for LDRS 502, we will select a 3-hour time block that is
 convenient to the entire class near the end of week 10. During this 3-hour block
